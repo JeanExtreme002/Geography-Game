@@ -1,0 +1,92 @@
+{
+    "1": {
+        "op1": "Taxa de mortatidade menos nascimento",
+        "op2": "Número de filhos por mães",
+        "op3": "Quantidade de crianças e idosos",
+        "op4": "Taxa de nascimento menos morte",
+        "op5": "Número de pessoas por km²",
+        "question": "O crescimento populacional no mundo é caracterizado como o aumento do número de habitantes no planeta. Esse fenômeno é consequência do crescimento vegetativo, obtido através do saldo entre:",
+        "answer": "Taxa de nascimento menos morte"
+        },
+    "2": {
+        "op1": "Primeiro lugar",
+        "op2": "Terceiro lugar",
+        "op3": "Sexto lugar",
+        "op4": "Décimo lugar",
+        "op5": "Vigésimo oitavo lugar",
+        "question": "Em razão do constante aumento populacional ocorrido no \nBrasil, principalmente a partir da década de 1960, \nintensificando-se nas últimas décadas, o país está na lista de países mais populosos do mundo. \nEm qual posição o Brasil está atualmente ?",
+        "answer": "Sexto lugar"
+        },
+    "3": {
+        "op1": "Maiores preocupações com a saúde",
+        "op2": "Treinamento policial mais severo",
+        "op3": "Aumento do bolsa família",
+        "op4": "Diminuição dos impostos",
+        "op5": "Queda da taxa de natalidade ",
+        "question": "Atualmente, a taxa de crescimento populacional mundial, \ninferior a 1,2% ao ano, está em constante declínio. Porém, a expectativa de vida está em ascensão devido a:",
+        "answer": "Maiores preocupações com a saúde"
+        },
+    "4": {
+        "op1": "Aumento da criminalidade",
+        "op2": "Escassez de alimentos",
+        "op3": "Número de carros nas ruas",
+        "op4": "Aumento dos impostos",
+        "op5": "Pouco planeta para muitas pessoas",
+        "question": "O contínuo aumento populacional pode ter várias \nconsequências negativas. A mais falada é a questão de: ",
+        "answer": "Escassez de alimentos"
+        },
+    "5": {
+        "op1": "Produção de camisinhas",
+        "op2": "Saúde pública",
+        "op3": "Bolsa família",
+        "op4": "Propagandas sobre filhos",
+        "op5": "Alternativas de anticoncepcionais",
+        "question": "Para tentar conter o elevado aumento populacional já estão \nsendo tomadas e estudadas certas medidas. É necessária a \nexpansão de serviços de alta qualidade de planeamento \nfamiliar e saúde reprodutiva. Além de divulgar mais \ninformações sobre planejamento familiar é necessário \naumentar:",
+        "answer": "Alternativas de anticoncepcionais"
+        },
+    "6": {
+        "op1": "Australia",
+        "op2": "Afrika",
+        "op3": "United States",
+        "op4": "Россия (Rossiya)",
+        "op5": "中国 (Zhōngguó)",
+        "question": "Com o objetivo de reduzir o crescimento populacional e, desse modo, facilitar o acesso da população do país a um sistema \nde saúde e educação de qualidade, foi implantada a política \ndo filho único. Em que país essa política foi implantada ?",
+        "answer": "中国 (Zhōngguó)"
+        },
+    "7": {
+        "op1": "PEI",
+        "op2": "PEA",
+        "op3": "PAE",
+        "op4": "PIE",
+        "op5": "IPE",
+        "question": "Como se chama a parcela de habitantes que não trabalham e dependem economicamente do trabalho de outras pessoas ?",
+        "answer": "PEI"
+        },
+    "8": {
+        "op1": "Guerra do Vietnã",
+        "op2": "Guerra Civil Russa",
+        "op3": "Segunda Guerra Mundial",
+        "op4": "Guerra Fria",
+        "op5": "Primeira Guerra Mundial",
+        "question": "As taxas de natalidade foram ainda mais incrementadas no \nperíodo que ocorreu a explosão demográfica, logo após a:",
+        "answer": "Segunda Guerra Mundial"
+        },
+    "9": {
+        "op1": "Fase Pré-Transição",
+        "op2": "Fase Pós-Transição",
+        "op3": "Primeira Transição",
+        "op4": "Segunda Transição",
+        "op5": "Transição de Kleuvis",
+        "question": "Em qual das transições há uma menor taxa de natalidade e \nmortalidade ?",
+        "answer": "Fase Pós-Transição"
+        },
+    "10": {
+        "op1": "0,7 filhos por mulher",
+        "op2": "2,1 filhos por mulher",
+        "op3": "1,3 filhos por mulher",
+        "op4": "2,5 filhos por mulher",
+        "op5": "1,7 filhos por mulher",
+        "question": "A taxa de fecundidade refere-se à média do número de filhos que as mulheres de um determinado país ou região podem ter durante sua idade fértil ou reprodutiva. Atualmente, qual é a \nmédia mundial dessa taxa de fecundidade ?",
+        "answer": "2,5 filhos por mulher"
+        }
+}

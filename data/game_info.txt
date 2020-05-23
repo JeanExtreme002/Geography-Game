@@ -1,0 +1,8 @@
+﻿
+Este é um simples jogo de perguntas e respostas onde você deverá
+utilizar todos os conhecimentos de geografia obtidos nesta unidade para
+chegar ao final do jogo com o máximo de acertos possíveis.
+ 
+Existem cinco respostas em cada questão para escolher, sendo apenas 
+uma delas a correta. Para deixar o jogo ainda mais desafiador e divertido, 
+você terá um tempo de 60 segundos para responder cada questão.
